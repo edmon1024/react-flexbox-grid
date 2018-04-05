@@ -5,7 +5,7 @@
   "version": "2.0.0",
   "main": "lib/index.js",
   "dependencies": {
-    "flexboxgrid2": "git+ssh://git@github.com/edmon1024/flexboxgrid2.git",
+    "flexboxgrid2": "edmon1024/flexboxgrid2",
     "prop-types": "^15.5.8"
   },
   "devDependencies": {
